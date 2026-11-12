@@ -1,0 +1,8 @@
+# Local learning environment (Python 3.9-3.11; Java 17 recommended for Spark)
+pyspark==3.5.3
+delta-spark==3.2.0
+pandas==2.2.3
+pytest==8.3.4
+jupyterlab==4.3.4
+nbformat==5.10.4
+ruff==0.8.4

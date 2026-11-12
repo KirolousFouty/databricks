@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price
+P001,Product 1,Electronics,11.75
+P002,Product 2,Home,15.5
+P003,Product 3,Books,19.25
+P004,Product 4,Fitness,23.0
+P005,Product 5,electronics ,not_a_price
+P006,Product 6,Electronics,30.5
+P007,Product 7,Home,34.25
+P008,Product 8,Books,38.0
+P009,Product 9,Fitness,41.75
+P010,Product 10,electronics ,45.5
+P011,Product 11,Electronics,49.25
+P012,Product 12,Home,53.0
+P013,Product 13,Books,56.75
+P014,Product 14,Fitness,60.5
+P015,Product 15,electronics ,64.25

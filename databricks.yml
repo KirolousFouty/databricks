@@ -1,0 +1,8 @@
+bundle:
+  name: retailflow-learning-lab
+include:
+  - resources/jobs/*.yml
+targets:
+  dev:
+    mode: development
+    default: true
